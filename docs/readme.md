@@ -62,7 +62,7 @@ Guid does not exists in in-memory database.
     "traceId": "|b604de90-48e38dcc20fcad48."
 }
 ```
-
+### 400 Bad Request
 
 Input arguments does not match API specification.
 ```json
